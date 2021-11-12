@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: #d1d8e0;
+}
+
+#survey-form {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.row-tab {
+    display: block;
+    padding-top: 20px;
+}
